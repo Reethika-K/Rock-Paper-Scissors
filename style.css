@@ -11,10 +11,11 @@ h1{
     align-items: center;
 }
 .imgstyle{
-    height: 13rem;
-    width: 13rem;
+    height: 12rem;
+    width: 12rem;
     border-radius: 50%;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 .imgstyle:hover{
     border: 2px solid black;
